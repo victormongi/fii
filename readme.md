@@ -1,10 +1,8 @@
 # Belajar Pake GIT
 
-Ini adalah latihan menggunakan GIT. Test
-gdfe
-<<<<<<< HEAD
-perubahan lagi
-what is the goal end
-=======
-perubahan lagi tambah perubahan ahahahahahaha jsdfsdkfsdfkj
->>>>>>> 2a6398457e3b0ca94402b4bbb48c4578b86598fc
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+proident, sunt in culpa qui officia deserunt mollit anim id est laborum.

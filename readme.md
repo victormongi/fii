@@ -2,4 +2,4 @@
 
 Ini adalah latihan menggunakan GIT. Test
 gdfe
-perubahan lagi tambah perubahan ahahahahahaha
+perubahan lagi tambah perubahan ahahahahahaha jsdfsdkfsdfkj
